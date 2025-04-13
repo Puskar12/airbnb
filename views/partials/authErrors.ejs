@@ -1,0 +1,11 @@
+<% if(typeof(errorMessage)!=='undefined'){ %>
+  <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative mb-4" role="alert">
+    <strong class="font-bold">Error!</strong>
+    <span class="block sm:inline">Please check the following:</span>
+    <ul class="list-disc pl-5 mt-2">
+      <% errorMessage.forEach(function(error) { %>
+        <li><%= error %></li>
+      <% }); %>
+    </ul>
+  </div>
+  <%} %>
