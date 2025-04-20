@@ -21,7 +21,6 @@ A full-stack **Airbnb-style** web application built using the **MERN stack** wit
 
 - 🔐 User Registration & Login
 - 🏘️ Property Listing and Viewing
-- 📅 Booking Functionality
 - 🧾 Session Management
 - 💡 EJS-based dynamic page rendering
 - 📱 Mobile Responsive UI
