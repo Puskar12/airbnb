@@ -13,7 +13,7 @@ A full-stack **Airbnb-style** web application built using the **MERN stack** wit
 - **Database:** MongoDB Atlas
 - **Templating Engine:** EJS
 - **Deployment:** Render
-- **Other Tools:** Mongoose, dotenv, Express-session
+- **Other Tools:** Mongoose, Express-session
 
 ---
 
